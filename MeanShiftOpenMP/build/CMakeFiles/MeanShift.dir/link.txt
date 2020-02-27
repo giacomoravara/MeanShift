@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -std=c++11 -fopenmp -O3 -DNDEBUG   CMakeFiles/MeanShift.dir/main.cpp.o CMakeFiles/MeanShift.dir/lodepng.cpp.o  -o MeanShift 

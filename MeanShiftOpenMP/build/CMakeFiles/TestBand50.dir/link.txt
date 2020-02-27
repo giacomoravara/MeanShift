@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -std=c++11 -fopenmp -O3 -DNDEBUG   CMakeFiles/TestBand50.dir/test_band_1.cpp.o CMakeFiles/TestBand50.dir/lodepng.cpp.o  -o TestBand50 

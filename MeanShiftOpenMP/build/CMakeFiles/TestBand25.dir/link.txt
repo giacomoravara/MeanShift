@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -std=c++11 -fopenmp -O3 -DNDEBUG   CMakeFiles/TestBand25.dir/test_bandwidth.cpp.o CMakeFiles/TestBand25.dir/lodepng.cpp.o  -o TestBand25 
